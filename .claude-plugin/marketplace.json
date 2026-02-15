@@ -1,0 +1,13 @@
+{
+  "name": "china-fin-toolkit",
+  "owner": {
+    "name": "Youhao Zhao"
+  },
+  "plugins": [
+    {
+      "name": "cninfo_mcp",
+      "source": "./plugins/cninfo_mcp",
+      "description": "A tool for querying and downloading annual reports of listed companies from CNINFO via the MCP protocol."
+    }
+  ]
+}
