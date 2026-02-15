@@ -1,0 +1,9 @@
+{
+  "cninfo": {
+    "command": "npx",
+    "args": [
+      "-y",
+      "@youhaozhao/cninfo-mcp"
+    ]
+  }
+}
