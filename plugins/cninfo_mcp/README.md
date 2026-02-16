@@ -1,49 +1,47 @@
 # cninfo_mcp
 
-A Claude Code plugin for querying and downloading annual reports of Chinese listed companies from [CNINFO](https://www.cninfo.com.cn) via the MCP protocol.
+通过 MCP 协议从[巨潮资讯网](https://www.cninfo.com.cn)查询和下载A股上市公司年报的 Claude Code 插件。
 
-## Features
+## 功能特性
 
-- Query annual reports by stock code
-- Filter reports by year
-- Download PDF reports to local directory
-- Query and download prospectus documents
+- 按股票代码查询年报列表
+- 按年份筛选年报
+- 下载年报 PDF 到本地目录
+- 查询和下载招股说明书
 
-## Installation
+## 安装方式
 
 ```
 /plugin install cninfo_mcp
 ```
 
-Or install from the marketplace:
+或通过 Marketplace 安装：
 
 ```
 /plugin marketplace add youhaozhao/china-fin-toolkit
 /plugin install cninfo_mcp
 ```
 
-## Usage
+## 使用示例
 
-Once installed, the following MCP tools are available in Claude Code:
+安装完成后，即可在 Claude Code 中使用以下 MCP 工具：
 
-### Query Annual Reports
-
-Ask Claude to query reports for a company:
+### 查询年报
 
 > 查询贵州茅台（600519）的年报
 
-### Download Annual Reports
+### 下载年报
 
 > 下载贵州茅台2023年年报，保存到 ~/reports/
 
-### Query Prospectus
+### 查询招股书
 
 > 查询中科德芯（688777）的招股书
 
-## MCP Server
+## MCP 服务
 
-This plugin runs `@youhaozhao/cninfo-mcp` via `npx`. No additional installation is required.
+本插件通过 `npx` 运行 `@youhaozhao/cninfo-mcp`，无需额外安装依赖。
 
-## License
+## 许可证
 
 MIT

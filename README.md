@@ -1,27 +1,27 @@
-# China Finance Toolkit
+# 中国金融工具集
 
-A collection of Claude Code plugins for Chinese financial data analysis.
+一套专为中国金融数据分析设计的 Claude Code 插件集合。
 
-## Plugins
+## 插件列表
 
-| Plugin | Description |
-|--------|-------------|
-| [cninfo_mcp](./plugins/cninfo_mcp) | Query and download annual reports of Chinese listed companies from CNINFO |
+| 插件 | 说明 |
+|------|------|
+| [cninfo_mcp](./plugins/cninfo_mcp) | 通过 MCP 协议从巨潮资讯查询和下载A股上市公司年报 |
 
-## Installation
+## 安装方式
 
-Add this marketplace to Claude Code:
+将本 Marketplace 添加到 Claude Code：
 
 ```
 /plugin marketplace add youhaozhao/china-fin-toolkit
 ```
 
-Then install a plugin:
+然后安装插件：
 
 ```
 /plugin install cninfo_mcp
 ```
 
-## License
+## 许可证
 
 MIT
