@@ -5,8 +5,8 @@
   },
   "plugins": [
     {
-      "name": "cninfo_mcp",
-      "source": "./plugins/cninfo_mcp",
+      "name": "cninfo-mcp",
+      "source": "./plugins/cninfo-mcp",
       "description": "A tool for querying and downloading annual reports of listed companies from CNINFO via the MCP protocol."
     }
   ]

@@ -1,10 +1,16 @@
 {
-    "name": "cninfo_mcp",
+    "name": "cninfo-mcp",
     "version": "1.0.0",
     "description": "A tool for querying and downloading annual reports of listed companies from CNINFO via the MCP protocol.",
     "author": {
         "name": "Youhao Zhao"
     },
     "license": "MIT",
-    "keywords": ["cninfo", "annual-report", "china-finance", "mcp", "listed-company"]
+    "keywords": [
+        "cninfo",
+        "annual-report",
+        "china-finance",
+        "mcp",
+        "listed-company"
+    ]
 }

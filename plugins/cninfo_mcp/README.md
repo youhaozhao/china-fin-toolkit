@@ -1,4 +1,4 @@
-# cninfo_mcp
+# cninfo-mcp
 
 通过 MCP 协议从[巨潮资讯网](https://www.cninfo.com.cn)查询和下载A股上市公司年报的 Claude Code 插件。
 
@@ -12,14 +12,14 @@
 ## 安装方式
 
 ```
-/plugin install cninfo_mcp
+/plugin install cninfo-mcp
 ```
 
 或通过 Marketplace 安装：
 
 ```
 /plugin marketplace add youhaozhao/china-fin-toolkit
-/plugin install cninfo_mcp
+/plugin install cninfo-mcp
 ```
 
 ## 使用示例
