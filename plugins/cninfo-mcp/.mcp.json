@@ -1,5 +1,5 @@
 {
-  "cninfo": {
+  "cninfo-mcp": {
     "command": "npx",
     "args": [
       "-y",

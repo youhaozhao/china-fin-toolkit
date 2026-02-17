@@ -1,5 +1,5 @@
 {
-  "pdf2docx": {
+  "pdf2docx-mcp": {
     "command": "npx",
     "args": [
       "-y",
