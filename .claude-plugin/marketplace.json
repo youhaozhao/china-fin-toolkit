@@ -8,6 +8,11 @@
       "name": "cninfo-mcp",
       "source": "./plugins/cninfo-mcp",
       "description": "A tool for querying and downloading annual reports of listed companies from CNINFO via the MCP protocol."
+    },
+    {
+      "name": "pdf2docx-mcp",
+      "source": "./plugins/pdf2docx-mcp",
+      "description": "A tool for converting PDF files to editable DOCX format via the MCP protocol."
     }
   ]
 }
