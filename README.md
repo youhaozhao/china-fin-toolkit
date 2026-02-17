@@ -7,6 +7,7 @@
 | 插件                               | 说明                                             |
 | ---------------------------------- | ------------------------------------------------ |
 | [cninfo-mcp](./plugins/cninfo-mcp) | 通过 MCP 协议从巨潮资讯查询和下载A股上市公司年报 |
+| [pdf2docx-mcp](./plugins/pdf2docx-mcp) | 通过 MCP 协议将 PDF 文件转换为可编辑 DOCX 格式 |
 
 ## 安装方式
 
@@ -20,6 +21,7 @@
 
 ```
 /plugin install cninfo-mcp
+/plugin install pdf2docx-mcp
 ```
 
 ## 许可证

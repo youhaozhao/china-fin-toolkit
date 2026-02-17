@@ -1,0 +1,16 @@
+{
+    "name": "pdf2docx-mcp",
+    "version": "0.1.1",
+    "description": "A tool for converting PDF files to editable DOCX format via the MCP protocol.",
+    "author": {
+        "name": "Youhao Zhao"
+    },
+    "license": "MIT",
+    "keywords": [
+        "pdf",
+        "docx",
+        "pdf2docx",
+        "document-conversion",
+        "mcp"
+    ]
+}

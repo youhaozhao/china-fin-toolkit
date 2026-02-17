@@ -1,0 +1,9 @@
+{
+  "pdf2docx": {
+    "command": "npx",
+    "args": [
+      "-y",
+      "@youhaozhao/pdf2docx-mcp"
+    ]
+  }
+}
