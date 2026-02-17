@@ -12,14 +12,14 @@
 ## 安装方式
 
 ```
-/plugin install cninfo-mcp
+/plugin install cninfo-mcp@china-fin-toolkit
 ```
 
 或通过 Marketplace 安装：
 
 ```
 /plugin marketplace add youhaozhao/china-fin-toolkit
-/plugin install cninfo-mcp
+/plugin install cninfo-mcp@china-fin-toolkit
 ```
 
 ## 使用示例

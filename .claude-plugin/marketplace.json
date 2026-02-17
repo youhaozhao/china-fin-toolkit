@@ -13,6 +13,14 @@
       "name": "pdf2docx-mcp",
       "source": "./plugins/pdf2docx-mcp",
       "description": "A tool for converting PDF files to editable DOCX format via the MCP protocol."
+    },
+    {
+      "name": "annual-report-benchmark",
+      "description": "多公司年报财务对标取数，产出可复核 Excel。依赖 cninfo-mcp 和 pdf2docx-mcp。",
+      "source": "./",
+      "skills": [
+        "./skills/annual-report-benchmark"
+      ]
     }
   ]
 }
