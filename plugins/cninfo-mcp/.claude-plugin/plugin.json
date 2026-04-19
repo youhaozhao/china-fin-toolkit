@@ -12,5 +12,12 @@
         "china-finance",
         "mcp",
         "listed-company"
-    ]
+    ],
+    "mcpServers": {
+        "cninfo": {
+            "type": "stdio",
+            "command": "npx",
+            "args": ["-y", "@youhaozhao/cninfo-mcp"]
+        }
+    }
 }

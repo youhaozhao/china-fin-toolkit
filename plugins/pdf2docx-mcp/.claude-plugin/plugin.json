@@ -12,5 +12,12 @@
         "pdf2docx",
         "document-conversion",
         "mcp"
-    ]
+    ],
+    "mcpServers": {
+        "pdf2docx": {
+            "type": "stdio",
+            "command": "npx",
+            "args": ["-y", "@youhaozhao/pdf2docx-mcp"]
+        }
+    }
 }
