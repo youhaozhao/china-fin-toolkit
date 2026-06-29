@@ -1,6 +1,6 @@
 {
     "name": "cninfo-mcp",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "description": "A tool for querying and downloading annual reports of listed companies from CNINFO via the MCP protocol.",
     "author": {
         "name": "Youhao Zhao"
